@@ -1,6 +1,7 @@
 # Robust Multi-Agent Reinforcement Learning via Minimax Deep Deterministic Policy Gradient 
 
 This is the code for implementing the M3DDPG (mmmaddpg) algorithm. 
+The code is modified from https://github.com/openai/maddpg
 
 For Multi-Agent Particle Environments (MPE) installation, please refer to https://github.com/openai/multiagent-particle-envs
 
@@ -42,4 +43,3 @@ For Multi-Agent Particle Environments (MPE) installation, please refer to https:
 
 - `--adv-eps-s`: adversarial rate against collaborators 
 
-The code is modified from https://github.com/openai/maddpg
